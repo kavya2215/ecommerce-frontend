@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kavya2215/ecommerce-frontend/static/css/main.ab19864b.css",
-    "main.js": "/kavya2215/ecommerce-frontend/static/js/main.27d9c3ef.js",
-    "static/js/453.3f74345f.chunk.js": "/kavya2215/ecommerce-frontend/static/js/453.3f74345f.chunk.js",
-    "index.html": "/kavya2215/ecommerce-frontend/index.html",
-    "main.ab19864b.css.map": "/kavya2215/ecommerce-frontend/static/css/main.ab19864b.css.map",
-    "main.27d9c3ef.js.map": "/kavya2215/ecommerce-frontend/static/js/main.27d9c3ef.js.map",
-    "453.3f74345f.chunk.js.map": "/kavya2215/ecommerce-frontend/static/js/453.3f74345f.chunk.js.map"
+    "main.css": "/ecommerce-frontend/static/css/main.ab19864b.css",
+    "main.js": "/ecommerce-frontend/static/js/main.3ecc43c6.js",
+    "static/js/453.3f74345f.chunk.js": "/ecommerce-frontend/static/js/453.3f74345f.chunk.js",
+    "index.html": "/ecommerce-frontend/index.html",
+    "main.ab19864b.css.map": "/ecommerce-frontend/static/css/main.ab19864b.css.map",
+    "main.3ecc43c6.js.map": "/ecommerce-frontend/static/js/main.3ecc43c6.js.map",
+    "453.3f74345f.chunk.js.map": "/ecommerce-frontend/static/js/453.3f74345f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab19864b.css",
-    "static/js/main.27d9c3ef.js"
+    "static/js/main.3ecc43c6.js"
   ]
 }
