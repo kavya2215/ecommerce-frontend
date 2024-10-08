@@ -10,7 +10,7 @@ const responseGoogle = (response) => {
 
 function App() {
     return (
-        <GoogleOAuthProvider clientId="916459558809-dnkag3sda9ltu6j83ao1ot3om1sddtp0.apps.googleusercontent.com">
+        <GoogleOAuthProvider clientId="192789626563-nnqttaljdnktonosgm04boufkksukb9u.apps.googleusercontent.com">
             <div className="App">
                 {/* Header with logo, company name, and navigation */}
                 <header className="App-header">

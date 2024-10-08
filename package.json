@@ -2,7 +2,7 @@
   "name": "ecommerce-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/kavya2215/ecommerce-frontend",
+  "homepage": "https://kavya2215.github.io/ecommerce-frontend",
   "dependencies": {
     "@react-oauth/google": "^0.12.1",
     "react": "^18.3.1",
